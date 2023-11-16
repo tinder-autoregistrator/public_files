@@ -1,0 +1,1502 @@
+{
+  "New York City": {
+    "state": "new+york",
+    "state_short": "NY",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.777294,
+      "west": -73.987581,
+      "south": 40.666319,
+      "east": -73.811203
+    }
+  },
+  "Los Angeles": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 34.154969,
+      "west": -118.363667,
+      "south": 33.7677,
+      "east": -117.900868
+    }
+  },
+  "Chicago": {
+    "state": "illinois",
+    "state_short": "IL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 41.971718,
+      "west": -87.752563,
+      "south": 41.738759,
+      "east": -87.650253
+    }
+  },
+  "Houston": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 29.869181,
+      "west": -95.412343,
+      "south": 29.621173,
+      "east": -95.268147
+    }
+  },
+  "Phoenix": {
+    "state": "arizona",
+    "state_short": "AZ",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Phoenix",
+    "geolocation": {
+      "north": 33.772949,
+      "west": -112.156699,
+      "south": 33.413756,
+      "east": -112.026236
+    }
+  },
+  "Philadelphia": {
+    "state": "pennsylvania",
+    "state_short": "PA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.050229,
+      "west": -75.20044,
+      "south": 39.898157,
+      "east": -75.145508
+    }
+  },
+  "San Antonio": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 29.433652,
+      "west": -98.571434,
+      "south": 29.327748,
+      "east": -98.410072
+    }
+  },
+  "San Diego": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 32.932821,
+      "west": -117.215128,
+      "south": 32.755141,
+      "east": -117.086039
+    }
+  },
+  "Dallas": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 32.803497,
+      "west": -96.877871,
+      "south": 32.687992,
+      "east": -96.68973
+    }
+  },
+  "San Jose": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 37.353454,
+      "west": -121.917735,
+      "south": 37.252409,
+      "east": -121.797572
+    }
+  },
+  "Austin": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 30.41577,
+      "west": -97.772287,
+      "south": 30.202959,
+      "east": -97.691949
+    }
+  },
+  "Jacksonville": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 30.481958,
+      "west": -81.799902,
+      "south": 30.202255,
+      "east": -81.451086
+    }
+  },
+  "Fort Worth": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 32.775559,
+      "west": -97.382079,
+      "south": 32.694697,
+      "east": -97.23857
+    }
+  },
+  "Columbus": {
+    "state": "ohio",
+    "state_short": "OH",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.030433,
+      "west": -83.016936,
+      "south": 39.948891,
+      "east": -82.969557
+    }
+  },
+  "Indianapolis": {
+    "state": "indiana",
+    "state_short": "IN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Indianapolis",
+    "geolocation": {
+      "north": 39.923051,
+      "west": -86.325025,
+      "south": 39.64048,
+      "east": -85.954236
+    }
+  },
+  "Charlotte": {
+    "state": "north+carolina",
+    "state_short": "NC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 35.279872,
+      "west": -80.905762,
+      "south": 35.123331,
+      "east": -80.75882
+    }
+  },
+  "San Francisco": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 37.784267,
+      "west": -122.508328,
+      "south": 37.714229,
+      "east": -122.395375
+    }
+  },
+  "Seattle": {
+    "state": "washington",
+    "state_short": "WA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 47.731752,
+      "west": -122.370916,
+      "south": 47.632825,
+      "east": -122.304311
+    }
+  },
+  "Denver": {
+    "state": "colorado",
+    "state_short": "CO",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Denver",
+    "geolocation": {
+      "north": 39.781902,
+      "west": -105.04567,
+      "south": 39.687911,
+      "east": -104.9207
+    }
+  },
+  "Oklahoma City": {
+    "state": "oklahoma",
+    "state_short": "OK",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 35.601765,
+      "west": -97.701731,
+      "south": 35.384852,
+      "east": -97.471018
+    }
+  },
+  "Nashville": {
+    "state": "tennessee",
+    "state_short": "TN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 36.282559,
+      "west": -86.944607,
+      "south": 36.129086,
+      "east": -86.656216
+    }
+  },
+  "El Paso": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Denver",
+    "geolocation": {
+      "north": 31.903177,
+      "west": -106.590015,
+      "south": 31.824449,
+      "east": -106.504184
+    }
+  },
+  "Washington": {
+    "state": "district+of+columbia",
+    "state_short": "DC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 38.963881,
+      "west": -77.077419,
+      "south": 38.905395,
+      "east": -77.000514
+    }
+  },
+  "Boston": {
+    "state": "massachusetts",
+    "state_short": "MA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 42.350526,
+      "west": -71.105567,
+      "south": 42.278425,
+      "east": -71.055442
+    }
+  },
+  "Las Vegas": {
+    "state": "nevada",
+    "state_short": "NV",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 36.227391,
+      "west": -115.332514,
+      "south": 36.164221,
+      "east": -115.2484
+    }
+  },
+  "Portland": {
+    "state": "oregon",
+    "state_short": "OR",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 45.571923,
+      "west": -122.717585,
+      "south": 45.469449,
+      "east": -122.545924
+    }
+  },
+  "Detroit": {
+    "state": "michigan",
+    "state_short": "MI",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Detroit",
+    "geolocation": {
+      "north": 42.373902,
+      "west": -83.138358,
+      "south": 42.341428,
+      "east": -83.007208
+    }
+  },
+  "Louisville": {
+    "state": "kentucky",
+    "state_short": "KY",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Louisville",
+    "geolocation": {
+      "north": 38.258201,
+      "west": -85.821024,
+      "south": 38.223146,
+      "east": -85.689875
+    }
+  },
+  "Memphis": {
+    "state": "tennessee",
+    "state_short": "TN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 35.211024,
+      "west": -90.05188,
+      "south": 35.001496,
+      "east": -89.863739
+    }
+  },
+  "Baltimore": {
+    "state": "maryland",
+    "state_short": "MD",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 39.370723,
+      "west": -76.709421,
+      "south": 39.285475,
+      "east": -76.531236
+    }
+  },
+  "Milwaukee": {
+    "state": "wisconsin",
+    "state_short": "WI",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 43.086865,
+      "west": -87.984676,
+      "south": 43.022644,
+      "east": -87.907772
+    }
+  },
+  "Albuquerque": {
+    "state": "new+mexico",
+    "state_short": "NM",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Denver",
+    "geolocation": {
+      "north": 35.163172,
+      "west": -106.609203,
+      "south": 35.068812,
+      "east": -106.487667
+    }
+  },
+  "Fresno": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 36.76397,
+      "west": -119.832342,
+      "south": 36.723528,
+      "east": -119.735525
+    }
+  },
+  "Tucson": {
+    "state": "arizona",
+    "state_short": "AZ",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Phoenix",
+    "geolocation": {
+      "north": 32.268799,
+      "west": -110.995057,
+      "south": 32.206945,
+      "east": -110.874551
+    }
+  },
+  "Sacramento": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 38.634333,
+      "west": -121.507106,
+      "south": 38.542555,
+      "east": -121.425396
+    }
+  },
+  "Mesa": {
+    "state": "arizona",
+    "state_short": "AZ",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Phoenix",
+    "geolocation": {
+      "north": 33.448976,
+      "west": -111.850393,
+      "south": 33.388798,
+      "east": -111.722677
+    }
+  },
+  "Kansas City": {
+    "state": "missouri",
+    "state_short": "MO",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 39.119162,
+      "west": -94.60393,
+      "south": 38.98372,
+      "east": -94.489946
+    }
+  },
+  "Atlanta": {
+    "state": "georgia",
+    "state_short": "GA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 33.808917,
+      "west": -84.491214,
+      "south": 33.706302,
+      "east": -84.356116
+    }
+  },
+  "Omaha": {
+    "state": "nebraska",
+    "state_short": "NE",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 41.304638,
+      "west": -96.079203,
+      "south": 41.217924,
+      "east": -95.94256
+    }
+  },
+  "Colorado Springs": {
+    "state": "colorado",
+    "state_short": "CO",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Denver",
+    "geolocation": {
+      "north": 38.929539,
+      "west": -104.882657,
+      "south": 38.79641,
+      "east": -104.761121
+    }
+  },
+  "Raleigh": {
+    "state": "north+carolina",
+    "state_short": "NC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 35.824729,
+      "west": -78.69451,
+      "south": 35.762349,
+      "east": -78.601469
+    }
+  },
+  "Virginia Beach": {
+    "state": "virginia",
+    "state_short": "VA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.902361,
+      "west": -76.178856,
+      "south": 36.788616,
+      "east": -75.979043
+    }
+  },
+  "Long Beach": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.795616,
+      "west": -118.204184,
+      "south": 33.765653,
+      "east": -118.173972
+    }
+  },
+  "Miami": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 25.793204,
+      "west": -80.253839,
+      "south": 25.757341,
+      "east": -80.196504
+    }
+  },
+  "Minneapolis": {
+    "state": "minnesota",
+    "state_short": "MN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 45.034755,
+      "west": -93.316757,
+      "south": 44.908697,
+      "east": -93.238136
+    }
+  },
+  "Tulsa": {
+    "state": "oklahoma",
+    "state_short": "OK",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 36.230325,
+      "west": -95.991322,
+      "south": 36.082299,
+      "east": -95.830647
+    }
+  },
+  "Bakersfield": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 35.397304,
+      "west": -119.041361,
+      "south": 35.354193,
+      "east": -119.001536
+    }
+  },
+  "Wichita": {
+    "state": "kansas",
+    "state_short": "KS",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 37.734036,
+      "west": -97.39765,
+      "south": 37.656341,
+      "east": -97.27474
+    }
+  },
+  "Arlington": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 32.770757,
+      "west": -97.136802,
+      "south": 32.627745,
+      "east": -97.075347
+    }
+  },
+  "Aurora": {
+    "state": "colorado",
+    "state_short": "CO",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Denver",
+    "geolocation": {
+      "north": 33.068673,
+      "west": -97.514648,
+      "south": 32.627745,
+      "east": -97.075347
+    }
+  },
+  "Tampa": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 27.994216,
+      "west":  -82.518202,
+      "south": 27.944361,
+      "east":  -82.446491
+    }
+  },
+  "New Orleans": {
+    "state": "louisiana",
+    "state_short": "LA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 30.018626,
+      "west": -90.119816,
+      "south": 29.933868,
+      "east":   -90.063511
+    }
+  },
+  "Cleveland": {
+    "state": "ohio",
+    "state_short": "OH",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 41.495100,
+      "west": -81.720980,
+      "south": 41.460375,
+      "east": -81.608027
+    }
+  },
+  "Anaheim": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.852273,
+      "west": -117.956916,
+      "south": 33.803076,
+      "east":  -117.880870
+    }
+  },
+  "Honolulu": {
+    "state": "hawaii",
+    "state_short": "HI",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "Pacific/Honolulu",
+    "geolocation": {
+      "north": 21.328174,
+      "west": -157.862592,
+      "south": 21.295230,
+      "east":  -157.835641
+    }
+  },
+  "Henderson": {
+    "state": "nevada",
+    "state_short": "NV",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 36.074635,
+      "west":  -115.074985,
+      "south": 36.005232,
+      "east":   -114.931819
+    }
+  },
+  "Stockton": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 37.981925,
+      "west":   -121.307031,
+      "south": 37.925617,
+      "east": -121.264287
+    }
+  },
+  "Lexington": {
+    "state": "kentucky",
+    "state_short": "KY",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 38.075537,
+      "west": -84.557550,
+      "south": 37.925617,
+      "east": -121.264287
+    }
+  },
+  "Corpus Christi": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 27.798986,
+      "west": -97.473681,
+      "south": 27.734279,
+      "east": -97.401583
+    }
+  },
+  "Riverside": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.999800,
+      "west": -117.384769,
+      "south": 33.920067,
+      "east":  -117.339107
+    }
+  },
+  "Santa Ana": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.764803,
+      "west": -117.901397,
+      "south": 33.710414,
+      "east": -117.853675
+    }
+  },
+  "Orlando": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 28.564632,
+      "west": -81.408085,
+      "south": 28.529799,
+      "east": -81.332725
+    }
+  },
+  "Irvine": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.690494,
+      "west": -117.852014,
+      "south": 33.643061,
+      "east": -117.734941
+    }
+  },
+  "Cincinnati": {
+    "state": "ohio",
+    "state_short": "OH",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 39.157791,
+      "west": -84.570628,
+      "south": 39.107192,
+      "east": -84.495097
+    }
+  },
+  "Newark": {
+    "state": "new+jersey",
+    "state_short": "NJ",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.747382,
+      "west": -74.206778,
+      "south": 40.703281,
+      "east": -74.170901
+    }
+  },
+  "Saint Paul": {
+    "state": "minnesota",
+    "state_short": "MN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 44.975877,
+      "west": -93.179528,
+      "south": 44.926310,
+      "east":  -93.039452
+    }
+  },
+  "Pittsburgh": {
+    "state": "pennsylvania",
+    "state_short": "PA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.463737,
+      "west": -80.030629,
+      "south": 40.428464,
+      "east": -79.913899
+    }
+  },
+  "Greensboro": {
+    "state": "north+carolina",
+    "state_short": "NC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.125663,
+      "west": -79.881115,
+      "south": 36.035763,
+      "east": -79.780179
+    }
+  },
+  "Saint Louis": {
+    "state": "missouri",
+    "state_short": "MO",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 38.671750,
+      "west": -90.285362,
+      "south": 38.600683,
+      "east":  -90.196098
+    }
+  },
+  "Lincoln": {
+    "state": "nebraska",
+    "state_short": "NE",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 40.856692,
+      "west": -96.751500,
+      "south": 40.789143,
+      "east":  -96.622411
+    }
+  },
+  "Plano": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 33.070442,
+      "west": -96.762379,
+      "south": 33.007988,
+      "east": -96.663158
+    }
+  },
+  "Anchorage": {
+    "state": "alaska",
+    "state_short": "AK",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Anchorage",
+    "geolocation": {
+      "north": 61.202334,
+      "west": -149.941688,
+      "south": 61.118206,
+      "east": -149.820838
+    }
+  },
+  "Durham": {
+    "state": "north+carolina",
+    "state_short": "NC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.035592,
+      "west": -78.954277,
+      "south": 35.977269,
+      "east": -78.859864
+    }
+  },
+  "Jersey City": {
+    "state": "new+jersey",
+    "state_short": "NJ",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 40.735119,
+      "west": -74.087102,
+      "south": 40.707018,
+      "east": -74.038007
+    }
+  },
+  "Buffalo": {
+    "state": "new+york",
+    "state_short": "NY",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 42.952020,
+      "west": -78.882298,
+      "south": 42.868537,
+      "east":  -78.815351
+    }
+  },
+  "Madison": {
+    "state": "wisconsin",
+    "state_short": "WI",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 43.070581,
+      "west": -89.504968,
+      "south": 43.038470,
+      "east": -89.398881
+    }
+  },
+  "Reno": {
+    "state": "nevada",
+    "state_short": "NV",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 39.542063,
+      "west": -119.837466,
+      "south": 39.504061,
+      "east":  -119.793178
+    }
+  },
+  "Toledo": {
+    "state": "ohio",
+    "state_short": "OH",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 41.708576,
+      "west": -83.619578,
+      "south": 41.619834,
+      "east": -83.508342
+    }
+  },
+  "Fort Wayne": {
+    "state": "indiana",
+    "state_short": "IN",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Indianapolis",
+    "geolocation": {
+      "north": 41.144057,
+      "west": -85.180440,
+      "south": 41.020876,
+      "east": -85.092549
+    }
+  },
+  "Lubbock": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 33.622917,
+      "west": -101.926277,
+      "south": 33.525661,
+      "east": -101.788261
+    }
+  },
+  "Saint Petersburg": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 27.806845,
+      "west": -82.691573,
+      "south": 27.746397,
+      "east": -82.640418
+    }
+  },
+  "Laredo": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 27.604516,
+      "west": -99.508789,
+      "south": 27.496762,
+      "east": -99.451454
+    }
+  },
+  "Irving": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 32.847852,
+      "west": -96.988216,
+      "south": 32.788127,
+      "east": -96.914745
+    }
+  },
+  "Chesapeake": {
+    "state": "virginia",
+    "state_short": "VA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.779913,
+      "west": -76.422049,
+      "south": 36.581119,
+      "east": -76.227042
+    }
+  },
+  "Winston-Salem": {
+    "state": "north+carolina",
+    "state_short": "NC",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.140511,
+      "west": -80.329990,
+      "south": 36.049518,
+      "east":  -80.196094
+    }
+  },
+  "Garland": {
+    "state": "texas",
+    "state_short": "TX",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 32.959541,
+      "west": -96.680560,
+      "south": 32.872790,
+      "east":   -96.599536
+    }
+  },
+  "Boise": {
+    "state": "idaho",
+    "state_short": "ID",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Boise",
+    "geolocation": {
+      "north": 43.640827,
+      "west": -116.232538,
+      "south": 43.558034,
+      "east": -116.181383
+    }
+  },
+  "Norfolk": {
+    "state": "virginia",
+    "state_short": "VA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 36.931257,
+      "west": -76.298444,
+      "south": 36.844210,
+      "east": -76.202313
+    }
+  },
+  "Spokane": {
+    "state": "washington",
+    "state_short": "WA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 47.712008,
+      "west":  -117.460850,
+      "south": 47.615358,
+      "east":  -117.354420
+    }
+  },
+  "Fremont": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 37.570142,
+      "west": -122.015256,
+      "south": 37.536936,
+      "east": -121.937321
+    }
+  },
+  "Richmond": {
+    "state": "virginia",
+    "state_short": "VA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 37.569546,
+      "west": -77.518328,
+      "south": 37.481326,
+      "east": -77.423914
+    }
+  },
+  "Santa Clarita": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 34.452969,
+      "west": -118.558150,
+      "south": 34.394347,
+      "east":  -118.471976
+    }
+  },
+  "San Bernardino": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 34.160781,
+      "west": -117.328294,
+      "south": 34.095985,
+      "east": -117.275079
+    }
+  },
+  "Baton Rouge": {
+    "state": "louisiana",
+    "state_short": "LA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 30.464159,
+      "west": -91.190742,
+      "south": 30.404068,
+      "east": -91.132721
+    }
+  },
+  "Tacoma": {
+    "state": "washington",
+    "state_short": "WA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 47.264750,
+      "west": -122.502157,
+      "south": 47.189210,
+      "east": -122.447912
+    }
+  },
+  "Modesto": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 37.681141,
+      "west": -121.009537,
+      "south": 37.639149,
+      "east": -120.936409
+    }
+  },
+  "Port Saint Lucie": {
+    "state": "florida",
+    "state_short": "FL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/New_York",
+    "geolocation": {
+      "north": 27.365600,
+      "west": -80.412027,
+      "south": 27.210601,
+      "east": -80.358469
+    }
+  },
+  "Huntsville": {
+    "state": "alabama",
+    "state_short": "AL",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 34.768185,
+      "west": -86.657362,
+      "south": 34.711478,
+      "east": -86.536169
+    }
+  },
+  "Des Moines": {
+    "state": "iowa",
+    "state_short": "IA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Chicago",
+    "geolocation": {
+      "north": 41.633648,
+      "west": -93.695783,
+      "south": 41.529898,
+      "east":  -93.550901
+    }
+  },
+  "Moreno Valley": {
+    "state": "california",
+    "state_short": "CA",
+    "country": "United States",
+    "country_short": "US",
+    "country_id": 0,
+    "locale": "en_US",
+    "timezone": "America/Los_Angeles",
+    "geolocation": {
+      "north": 33.956516,
+      "west": -117.238779,
+      "south": 33.900968,
+      "east": -117.169084
+    }
+  }
+}
